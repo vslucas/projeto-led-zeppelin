@@ -148,22 +148,6 @@ main img {
     margin-left: auto;
 }
 
-#video {
-    position: relative;
-    background-color: var(--cor4);
-    margin: 15px -20px 30px -20px;
-    padding: 20px;
-    padding-bottom: 56.5%;
-} /*Descartar na versão final*/
-
-#video > iframe {
-    position: absolute;
-    top: 5%;
-    left: 5%;
-    width: 90%;
-    height: 90%;
-} /*Descartar na versão final*/
-
 aside {
     background-color: var(--cor4);
     padding: 10px;
